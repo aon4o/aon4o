@@ -2,10 +2,10 @@
 
 
 <div>
-  <a href="mailto:a.o.naidenov@gmail.com">
+  <a href="mailto:a.o.naidenov@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/alex-naida/">
+  <a href="https://www.linkedin.com/in/alex-naida/" target="_blank">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
 </div>
