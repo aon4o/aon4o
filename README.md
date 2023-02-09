@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/alex-naida/" target="_blank">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
+  <a href="https://www.w3profile.com/aon4o" target="_blank">
+      <img src="https://img.shields.io/badge/-W3Schools-success?style=flat-square&logo=w3schools">
+  </a>
 </div>
 
 <div>
