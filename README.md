@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- :school: Graduate of TUES - Sofia
+- :computer: Web Development
+- :elephant: PHP / Laravel applications
+- :snake: Passion for Python and JavaScript
 
 <div>
   <a href="mailto:a.o.naidenov@gmail.com" target="_blank">
