@@ -11,6 +11,7 @@
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 [![W3Schools](http://img.shields.io/badge/-W3Schools-success?style=flat&logo=w3schools&logoColor=white)][w3schools]
 [![Stack Overflow](http://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=stackoverflow&logoColor=white)][stackoverflow]
+![Discord](https://img.shields.io/badge/-%40aon4o-5865f2?logo=discord&logoColor=white&label=Discord%3A&labelColor=5865f2&color=5865f2)
 
 --------
 
