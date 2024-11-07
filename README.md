@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <a href="https://app.daily.dev/aon4o">
   <img align="right" src="https://api.daily.dev/devcards/v2/vSUi2NSP4lP0Deq09sSQp.png?type=wide&r=odn" width="500" alt="Alex Naida's Dev Card"/>
 </a>
+
+### Hi there 👋
 
 ### Find me on the web 🌍:
 
@@ -14,14 +14,18 @@
 
 --------
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aon4o" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aon4o&layout=compact&langs_count=10&show_icons=true&count_private=true&hide=CMake,Makefile,Blade,Vue,Shell,GLSL" />
-  </a>
-</div>
+### Tech & Tools ⚙️:
+
+[![Laravel](http://img.shields.io/badge/-Laravel-EB4432?style=flat&logo=laravel&logoColor=white)]()
+
+--------
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aon4o&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aon4o&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aon4o&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aon4o&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aon4o&theme=dracula&utcOffset=8)
+
 
 [mail]: mailto:a.o.naidenov@gmail.com
 [youtube]: https://youtube.com/@aon4o
