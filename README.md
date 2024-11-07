@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/aon4o">
-  <img align="right" src="https://api.daily.dev/devcards/v2/vSUi2NSP4lP0Deq09sSQp.png?type=default&r=qd8" width="300" alt="Alex Naida's Dev Card"/>
+  <img align="right" src="https://api.daily.dev/devcards/v2/vSUi2NSP4lP0Deq09sSQp.png?type=default&r=qd8" width="250" alt="Alex Naida's Dev Card"/>
 </a>
 
 ### Hi there 👋
