@@ -16,7 +16,10 @@
 
 ### Tech & Tools ⚙️:
 
-[![Laravel](http://img.shields.io/badge/-Laravel-EB4432?style=flat&logo=laravel&logoColor=white)]()
+- [![PHP](http://img.shields.io/badge/-PHP-48548d?style=flat&logo=php&logoColor=white)]() [![Laravel](http://img.shields.io/badge/-Laravel-EB4432?style=flat&logo=laravel&logoColor=white)]()
+- [![git](http://img.shields.io/badge/-git-f14e32?style=flat&logo=git&logoColor=white)]() [![GitHub](http://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white)]() [![GitLab](http://img.shields.io/badge/-GitLab-cb4e18?style=flat&logo=GitLab&logoColor=white)]()
+- Database
+
 
 --------
 
