@@ -8,10 +8,13 @@
 
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
+[![YouTube](https://img.shields.io/badge/-YouTube-f00?style=flat&logo=youtube&logoColor=white)][youtube]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 [![W3Schools](http://img.shields.io/badge/-W3Schools-success?style=flat&logo=w3schools&logoColor=white)][w3schools]
 [![Stack Overflow](http://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=stackoverflow&logoColor=white)][stackoverflow]
 ![Discord](https://img.shields.io/badge/-%40aon4o-5865f2?logo=discord&logoColor=white&label=Discord%3A&labelColor=5865f2&color=5865f2)
+[![Blog BG](http://img.shields.io/badge/-Blog%20BG-639741?style=flat&logo=wordpress&logoColor=white)][blog_bg]
+[![Blog EN](http://img.shields.io/badge/-Blog%20EN-d8eacc?style=flat&logo=wordpress&logoColor=black)][blog_en]
 
 --------
 
@@ -37,3 +40,5 @@
 [linkedin]: https://www.linkedin.com/in/alex-naida/
 [w3schools]: https://www.w3profile.com/aon4o
 [stackoverflow]: https://stackoverflow.com/users/14667022/aon4o
+[blog_bg]: https://www.jump.bg/blog/author/aleksandar-naydenov
+[blog_en]: https://www.hostingjump.com/blog/author/aleksandar-naydenov
