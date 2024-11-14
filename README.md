@@ -29,7 +29,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aon4o&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aon4o&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aon4o&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aon4o&theme=dracula&exclude=shell)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aon4o&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aon4o&theme=dracula&utcOffset=8)
 
